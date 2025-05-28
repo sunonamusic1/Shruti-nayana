@@ -70,7 +70,7 @@ def stream_markup_timer(_, chat_id, played, dur):
             )
         ],
         [
-            InlineKeyboardButton(text="~ 𝛿𝜨𝜤𝑃𝐸𝘙 ⚚", url="https://t.me/Sexysniperr"),
+            InlineKeyboardButton(text="𝑵 𝒂 𝒚 𝒂 𝒏 𝒂 𓂃 🍷", url="https://t.me/naina214"),
             InlineKeyboardButton(text="𝐌ᴀɴᴀɢᴇʀ", url="https://t.me/Hori_music_bot"),
         ],
     ]
